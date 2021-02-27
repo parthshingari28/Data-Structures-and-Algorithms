@@ -11,3 +11,5 @@
 5) Sorting out 0,1,2 elements only.
 
 6) Moving all negative numbers to one end and positive to other end.
+
+7) Single source shortest path .
